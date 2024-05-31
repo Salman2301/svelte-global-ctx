@@ -1,0 +1,1 @@
+<a href="/sample">Go to sample page</a>
